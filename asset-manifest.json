@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7b207817.css",
+    "main.js": "./static/js/main.02e607a9.js",
+    "static/media/massaCoursMethod.mp3": "./static/media/massaCoursMethod.541a2d93298c814b326e.mp3",
+    "static/media/instruMassaCoursMethod.mp3": "./static/media/instruMassaCoursMethod.19e02652d490ef8b4ca7.mp3",
+    "static/media/mainBanner.png": "./static/media/mainBanner.09c7254832c6d34892c3.png",
+    "static/media/professoRap.png": "./static/media/professoRap.c38ae081b2b7e71de266.png",
+    "static/media/musicAny.jpg": "./static/media/musicAny.7d3d9b8e7b78187b60aa.jpg",
+    "static/media/massa.jpg": "./static/media/massa.6ae31ade242a75b42dd6.jpg",
+    "static/media/microphoneRecording.svg": "./static/media/microphoneRecording.04c345bd894533b751267965605eb4be.svg",
+    "index.html": "./index.html",
+    "static/media/iconMusic.svg": "./static/media/iconMusic.11457ac659bf59b26a0c200ffee7554d.svg",
+    "main.7b207817.css.map": "./static/css/main.7b207817.css.map",
+    "main.02e607a9.js.map": "./static/js/main.02e607a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b207817.css",
+    "static/js/main.02e607a9.js"
+  ]
+}
