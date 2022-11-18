@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/professorap/static/css/main.bc811956.css",
-    "main.js": "/professorap/static/js/main.677458d9.js",
+    "main.js": "/professorap/static/js/main.60b07d1c.js",
     "static/media/massaCoursMethod.mp3": "/professorap/static/media/massaCoursMethod.541a2d93298c814b326e.mp3",
     "static/media/instruMassaCoursMethod.mp3": "/professorap/static/media/instruMassaCoursMethod.19e02652d490ef8b4ca7.mp3",
     "static/media/mainBanner.png": "/professorap/static/media/mainBanner.09c7254832c6d34892c3.png",
@@ -12,10 +12,10 @@
     "index.html": "/professorap/index.html",
     "static/media/iconMusic.svg": "/professorap/static/media/iconMusic.11457ac659bf59b26a0c200ffee7554d.svg",
     "main.bc811956.css.map": "/professorap/static/css/main.bc811956.css.map",
-    "main.677458d9.js.map": "/professorap/static/js/main.677458d9.js.map"
+    "main.60b07d1c.js.map": "/professorap/static/js/main.60b07d1c.js.map"
   },
   "entrypoints": [
     "static/css/main.bc811956.css",
-    "static/js/main.677458d9.js"
+    "static/js/main.60b07d1c.js"
   ]
 }
