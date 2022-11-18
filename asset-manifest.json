@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/professorap/static/css/main.196c2ff6.css",
-    "main.js": "/professorap/static/js/main.06649dee.js",
+    "main.css": "/professorap/static/css/main.bc811956.css",
+    "main.js": "/professorap/static/js/main.677458d9.js",
     "static/media/massaCoursMethod.mp3": "/professorap/static/media/massaCoursMethod.541a2d93298c814b326e.mp3",
     "static/media/instruMassaCoursMethod.mp3": "/professorap/static/media/instruMassaCoursMethod.19e02652d490ef8b4ca7.mp3",
     "static/media/mainBanner.png": "/professorap/static/media/mainBanner.09c7254832c6d34892c3.png",
@@ -11,11 +11,11 @@
     "static/media/microphoneRecording.svg": "/professorap/static/media/microphoneRecording.04c345bd894533b751267965605eb4be.svg",
     "index.html": "/professorap/index.html",
     "static/media/iconMusic.svg": "/professorap/static/media/iconMusic.11457ac659bf59b26a0c200ffee7554d.svg",
-    "main.196c2ff6.css.map": "/professorap/static/css/main.196c2ff6.css.map",
-    "main.06649dee.js.map": "/professorap/static/js/main.06649dee.js.map"
+    "main.bc811956.css.map": "/professorap/static/css/main.bc811956.css.map",
+    "main.677458d9.js.map": "/professorap/static/js/main.677458d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.196c2ff6.css",
-    "static/js/main.06649dee.js"
+    "static/css/main.bc811956.css",
+    "static/js/main.677458d9.js"
   ]
 }
