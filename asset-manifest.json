@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/professorap/static/css/main.10bbebc5.css",
-    "main.js": "/professorap/static/js/main.54d842b2.js",
+    "main.js": "/professorap/static/js/main.14f75027.js",
     "static/media/massaCourInstru2.wav": "/professorap/static/media/massaCourInstru2.54aeaa9b4d03c6e8d54b.wav",
     "static/media/massaCour2.wav": "/professorap/static/media/massaCour2.667f178dfb8e48e36520.wav",
     "static/media/massaCoursMethod.mp3": "/professorap/static/media/massaCoursMethod.541a2d93298c814b326e.mp3",
     "static/media/instruMassaCoursMethod.mp3": "/professorap/static/media/instruMassaCoursMethod.19e02652d490ef8b4ca7.mp3",
     "static/media/professoRap.png": "/professorap/static/media/professoRap.c38ae081b2b7e71de266.png",
     "static/media/mainBanner.png": "/professorap/static/media/mainBanner.fdc6e24f6a5f3d37e091.png",
+    "static/media/theme2.png": "/professorap/static/media/theme2.7ca90999b7d5d21ffe9b.png",
     "static/media/massaBandeau.jpg": "/professorap/static/media/massaBandeau.3ecad60b6911f4b1109c.jpg",
-    "static/media/musicAny.jpg": "/professorap/static/media/musicAny.7d3d9b8e7b78187b60aa.jpg",
     "static/media/massa.jpg": "/professorap/static/media/massa.6ae31ade242a75b42dd6.jpg",
     "static/media/logoMassa1.svg": "/professorap/static/media/logoMassa1.3dfa97280b319639f70fc5366f84e581.svg",
     "static/media/microphoneRecording.svg": "/professorap/static/media/microphoneRecording.04c345bd894533b751267965605eb4be.svg",
     "static/media/vinylColoredOrange.svg": "/professorap/static/media/vinylColoredOrange.1d64ce6407351a647fa0806f8a066254.svg",
     "index.html": "/professorap/index.html",
     "main.10bbebc5.css.map": "/professorap/static/css/main.10bbebc5.css.map",
-    "main.54d842b2.js.map": "/professorap/static/js/main.54d842b2.js.map"
+    "main.14f75027.js.map": "/professorap/static/js/main.14f75027.js.map"
   },
   "entrypoints": [
     "static/css/main.10bbebc5.css",
-    "static/js/main.54d842b2.js"
+    "static/js/main.14f75027.js"
   ]
 }
